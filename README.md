@@ -17,6 +17,13 @@ After downloading, the videos need to transform to video clips and organize as t
 
   
 ## Pre-train
+There are actually has two models that need to pre-train and save the models for next step.
 
 
-## 
+
+## Train
+The training has three steps.
+- Train high and low privacy enhancement networks.
+- Train feature compensation network. 
+- Train the video-based FER network.
+
