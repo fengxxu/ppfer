@@ -16,7 +16,8 @@ Download two datasets for both pre-training and training.
 After downloading, the videos need to transform to video clips and organize as the following structure. Please note: the structure are defined in the `xxx_params.py` files. You can make changes, but ensure both same.
 
 
-## 
+## Fill in all `xxx_params.py` blanks.
+In each 
 
   
 ## Pre-train
