@@ -1,3 +1,7 @@
 .DS_Store
 .AppleDouble
 .LSOverride
+output.
+output/*
+outputs.
+outputs/*
